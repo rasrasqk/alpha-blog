@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alpha-blog/static/css/main.f1302bb2.css",
+    "main.js": "/alpha-blog/static/js/main.90f57f9f.js",
+    "index.html": "/alpha-blog/index.html",
+    "main.f1302bb2.css.map": "/alpha-blog/static/css/main.f1302bb2.css.map",
+    "main.90f57f9f.js.map": "/alpha-blog/static/js/main.90f57f9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1302bb2.css",
+    "static/js/main.90f57f9f.js"
+  ]
+}
